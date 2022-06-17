@@ -1,0 +1,76 @@
+*{
+    margin: 0;
+    padding: o;
+    box-sizing: border-box;
+}
+
+
+body{
+    background-color: hsl(0, 0%, 95%);
+}
+main{
+    width: 50%;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.no-1{
+    background-color: hsl(31, 77%, 52%);
+    padding: 2em;
+    border-radius: 5px;
+    overflow: hidden;
+}
+.no-1 h2{
+    font-weight: 700;
+    color: hsl(0, 0%, 95%);
+    font-size: 15px;
+    padding-bottom: 10px;
+}
+.no-1 p{
+    font-weight: 400;
+    color: hsla(0, 0%, 100%, 0.75);
+    font-size: 15px;
+    padding-bottom: 10px;
+}
+.no-2 {
+    background-color: hsl(184, 100%, 22%);
+    padding: 2em;
+    border-radius: 5px;
+    overflow: hidden;
+}
+
+.no-2 h2 {
+    font-weight: 700;
+    color: hsl(0, 0%, 95%);
+    font-size: 15px;
+    padding-bottom: 10px;
+}
+
+.no-2 p {
+    font-weight: 400;
+    color: hsla(0, 0%, 100%, 0.75);
+    font-size: 15px;
+    padding-bottom: 10px;
+}
+.no-3 {
+    background-color: hsl(179, 100%, 13%);
+    padding: 2em;
+    border-radius: 5px;
+    overflow: hidden;
+}
+
+.no-3 h2 {
+    font-weight: 700;
+    color: hsl(0, 0%, 95%);
+    font-size: 15px;
+    padding-bottom: 10px;
+}
+
+.no-3 p {
+    font-weight: 400;
+    color: hsla(0, 0%, 100%, 0.75);
+    font-size: 15px;
+    padding-bottom: 10px;
+}
